@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @darkmonger
+- 👋 Hi, I’m Arman Soylu
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Enginnering
 - 💞️ I’m looking to collaborate on game making
-- 📫 How to reach me ...
+- 📫 How to reach me armansoylu0@gmail.com
 
 <!---
 darkmonger/darkmonger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
