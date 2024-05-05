@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arman Soylu
-- 👀 I’m interested in Game Development and Deep Learning
+- 👀 I’m interested in Game Development and Machine Learning
 - 🌱 I’m currently learning Enginnering
 - 💞️ I’m looking to collaborate on game making
 - 📫 How to reach me armansoylu0@gmail.com
